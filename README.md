@@ -6,13 +6,13 @@ Para isso, você irá baixar este repositório para sua máquina local, e resolv
 
 ### Flow básico
 1. Para baixar o repositório você deve criar um *clone*
-   - `git clone https://github.com/pixel-ufsc/trilha-dev-ex1-23.2.git`
+   - `git clone https://github.com/pixel-ufsc/trilha-dev-ex2-23.1.git`
    - ou
-   - `git clone git@github.com:pixel-ufsc/trilha-dev-ex1-23.2`
+   - `git clone git@github.com:pixel-ufsc/trilha-dev-ex2-23.1`
    - ou
    - Baixar zip e descompactar
-1. Vá para a pasta /trilha-dev-ex1-23.2
-   - `cd trilha-dev-ex1-23.2`
+1. Vá para a pasta /trilha-dev-ex2-23.1
+   - `cd trilha-dev-ex2-23.1`
 1. Crie uma branch seguindo o seguinte padrão para nome: new/nome-sobrenome
    - `git branch new/nome-sobrenome`
 1. Altere da branch main para a sua nova branch criada
