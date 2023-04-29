@@ -32,4 +32,4 @@ Para conseguir rodas scripts em Javascript no seu computador é necessário que 
 Esse comando irá executar o arquivo index.js que se encontra na pasta nomeada como 01.
 Caso o nome do arquivo não seja index.js, é necessário informar o caminho completo, vide exemplo:
 
-`node ./pasta/nome_arquivo.js`
+`node ./pasta/nome_arquivo.js` 
