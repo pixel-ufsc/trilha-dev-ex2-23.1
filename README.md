@@ -5,10 +5,10 @@ No segundo exercício você irá praticar um pouco de Javascript.
 Para isso, você irá baixar este repositório para sua máquina local, e resolver cada um dos 12 exercícios, que estão separados por pastas. Por fim você irá subir para esse repositório remoto uma branch com seu nome que possui a sua resolução dos exercícios.
 
 ### Flow básico
-1. Para baixar o repositório você deve criar um *clone*
-   - `git clone https://github.com/pixel-ufsc/trilha-dev-ex2-23.1.git`
+1. Crie um *fork* do projeto (uma cópia independente do repositório para sua própria conta)
+   - `git clone https://github.com/nome_de_usuário/trilha-dev-ex2-23.1.git`
    - ou
-   - `git clone git@github.com:pixel-ufsc/trilha-dev-ex2-23.1`
+   - `git clone git@github.com:nome_de_usuário/trilha-dev-ex2-23.1`
    - ou
    - Baixar zip e descompactar
 1. Vá para a pasta /trilha-dev-ex2-23.1
