@@ -38,4 +38,4 @@ Caso o nome do arquivo não seja index.js, é necessário informar o caminho com
 
 
 ### Respostas
-Nesse [link](https://github.com/GaibVargas/trilha-dev-ex2-23.1) é possível ter acesso a uma possível resolução dos exercícios. A recomendação é olhar após terminar os exercícios ou quando ficar sem ideias de como resolver um determinado exercício.
+Nesse [link](https://github.com/GaibVargas/trilha-dev-ex2-23.1) e nesse [link](https://github.com/hknmtt/trilha-dev-ex2-23.1) é possível ter acesso a uma possível resolução dos exercícios. A recomendação é olhar após terminar os exercícios ou quando ficar sem ideias de como resolver um determinado exercício.
