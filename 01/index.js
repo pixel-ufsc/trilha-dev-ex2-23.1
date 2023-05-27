@@ -1,6 +1,5 @@
 // Crie sua função aqui
-//testando git
-//testando arquivo branch
+
 
 // Não altere as linhas abaixo
 console.log(sumIsEven(2, 3) ? '2 + 3 é par' : '2 + 3 é ímpar')
