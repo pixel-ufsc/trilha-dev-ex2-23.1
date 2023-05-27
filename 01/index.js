@@ -1,6 +1,7 @@
 // Crie sua função aqui
 
 
+
 // Não altere as linhas abaixo
 console.log(sumIsEven(2, 3) ? '2 + 3 é par' : '2 + 3 é ímpar')
 console.log(sumIsEven(0, 46) ? '0 + 46 é par' : '0 + 46 é ímpar')
