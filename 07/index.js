@@ -1,5 +1,10 @@
 // Crie sua função aqui
-
+function sumArray(arr) {
+    const answer = arr.reduce((acc, current) => {
+        return acc + current;
+    }) 
+    return answer;
+}
 
 // Não altere as linhas abaixo
 console.log(sumArray([0, 1, 2, 3, 4, 5]))
