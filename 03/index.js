@@ -1,5 +1,13 @@
 // Crie sua função aqui
-
+function biggestNumber(arr) {
+    let biggest = 0;
+    for (i = 0; i < arr.length; i++ ) {
+        if (arr[i] > biggest) {
+            biggest = arr[i];
+        }
+    }
+    return biggest;
+}
 
 // Não altere as linhas abaixo
 console.log(biggestNumber([0, 1, 2, 3, 4, 5]))

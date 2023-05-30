@@ -1,5 +1,13 @@
 // Crie sua função aqui
-
+async function delayedSumArray(arr) {
+  return sumAPI(arr)
+  .then( result => {
+    console.log(result);
+  })
+  .catch( error => {
+    console.log(error.message);
+  })
+}
 
 // Não altere as linhas abaixo
 

@@ -1,5 +1,11 @@
 // Crie sua função aqui
-
+function oneToNumber(num) {
+    let arr = [];
+    for (i = 1; i <= num; i++) {
+        arr.push(i);
+    }
+    return arr;
+}
 
 // Não altere as linhas abaixo
 console.log(oneToNumber(10))
