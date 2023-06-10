@@ -1,5 +1,8 @@
 // Crie sua função aqui
-
+function biggestNumber(a){
+    let biggest = Math.max(...a)
+    return biggest
+}
 
 // Não altere as linhas abaixo
 console.log(biggestNumber([0, 1, 2, 3, 4, 5]))
