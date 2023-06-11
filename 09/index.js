@@ -1,5 +1,10 @@
 // Crie sua função aqui
-
+function filterLegalAge(ages){
+  const higher = ages.filter(function(person){
+    return person.age >= 18
+  });
+  return higher;
+}
 
 // Não altere as linhas abaixo
 console.log(filterLegalAge([
