@@ -1,5 +1,7 @@
 // Crie sua função aqui
-
+function sumIsEven(a, b){
+    return (a + b) % 2 === 0
+}
 
 
 // Não altere as linhas abaixo
